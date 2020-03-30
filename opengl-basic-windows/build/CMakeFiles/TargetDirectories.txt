@@ -1,0 +1,4 @@
+C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build/CMakeFiles/glad.dir
+C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build/CMakeFiles/opengl-basic.dir
+C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build/CMakeFiles/ZERO_CHECK.dir

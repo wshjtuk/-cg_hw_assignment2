@@ -1,0 +1,10 @@
+^C:\USERS\WJK13\DESKTOP\CG_HW\CS171-ASSIGNMENT2-WSHJTUK\OPENGL-BASIC-WINDOWS\3RDLIBS\GLFW-3.3.2\BUILD\CMAKEFILES\BF6897237728FFCFBD7234E69ABC36E7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/3rdLibs/glfw-3.3.2 -BC:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/3rdLibs/glfw-3.3.2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/3rdLibs/glfw-3.3.2/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

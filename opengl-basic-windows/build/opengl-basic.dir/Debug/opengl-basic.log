@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\../inc/shader_m.h(76,14): warning C4101: “infoLog”: 未引用的局部变量
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\../inc/shader_m.h(75,13): warning C4101: “success”: 未引用的局部变量
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(55,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(56,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(59,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(60,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(61,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(62,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(102,43): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(105,51): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(112,45): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(113,45): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(114,36): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(184,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(192,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(281,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(470,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(471,54): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(479,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(480,54): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(488,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(489,54): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(497,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(498,54): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(517,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\src\main.cpp(181): warning C4715: “make_face”: 不是所有的控件路径都返回值
+  opengl-basic.vcxproj -> C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\build\Debug\opengl-basic.exe

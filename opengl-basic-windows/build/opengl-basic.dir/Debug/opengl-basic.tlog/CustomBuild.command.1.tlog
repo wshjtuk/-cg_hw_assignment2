@@ -1,0 +1,10 @@
+^C:\USERS\WJK13\DESKTOP\CG_HW\CS171-ASSIGNMENT2-WSHJTUK\OPENGL-BASIC-WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows -BC:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build --check-stamp-file C:/Users/wjk13/Desktop/cg_hw/cs171-assignment2-wshjtuk/opengl-basic-windows/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

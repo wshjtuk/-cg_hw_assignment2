@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\3rdLibs\glfw-3.3.2\tests\gamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\3rdLibs\glfw-3.3.2\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\3rdLibs\glfw-3.3.2\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wjk13\Desktop\cg_hw\cs171-assignment2-wshjtuk\opengl-basic-windows\3rdLibs\glfw-3.3.2\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9F64C051-B37A-3434-9EDB-69B0EB5AF453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B76290E8-51D6-3EB6-9549-7A2F8C609C7E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
